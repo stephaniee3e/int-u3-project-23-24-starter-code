@@ -7,7 +7,7 @@ This starter code is meant to help you get started - feel free to change ANYTHIN
 ## Setup
 
 1. Fork this repo and import your copy into Replit.
-2. Go to the `<title>` tag and change it to your name and "Unit 2 Project" (For instance if your name is Janice, the title should be "Janice_Unit 2 Project")
+2. Go to the `<title>` tag and change it to your name and "Unit 3 Project" (For instance if your name is Janice, the title should be "Janice_Unit 3 Project")
 
 ## Project Task List
 
