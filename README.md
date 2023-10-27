@@ -12,16 +12,16 @@ This starter code is meant to help you get started - feel free to change ANYTHIN
 ## Project Task List
 
 ### Project Plan
-[ ] Clone or Fork the Starter Code.
-[ ] Look over “Inspiration & Ideas” section.
-[ ] Complete the “Brainstorming” section.
-[ ] Choose a “Next Level Feature”.
+- [ ] Clone or Fork the Starter Code.
+- [ ] Look over “Inspiration & Ideas” section.
+- [ ] Complete the “Brainstorming” section.
+- [ ] Choose a “Next Level Feature”.
 
 ### HTML
 Adjust the HTML to match your story. HTML elements to use on your page could include:
-[ ] Headings
-[ ] Paragraphs
-[ ] Images
+- [ ] Headings
+- [ ] Paragraphs
+- [ ] Images
 
 ### CSS
 [ ] Use the the display property in CSS to hide all but the first part of the game when the user enters. 
