@@ -24,17 +24,17 @@ Adjust the HTML to match your story. HTML elements to use on your page could inc
 - [ ] Images
 
 ### CSS
-[ ] Use the the display property in CSS to hide all but the first part of the game when the user enters. 
-[ ] Add two other styling elements you like (background color, color, font, etc.)
+- [ ] Use the the display property in CSS to hide all but the first part of the game when the user enters. 
+- [ ] Add two other styling elements you like (background color, color, font, etc.)
 
 ### JS
-[ ] Save HTML elements using the  querySelector() method.
-[ ] Use .style to change the CSS display property when the user interacts with the page.
-[ ] Use .innerHTML to change the text when the user interacts with the page. 
-[ ] Includes at least two events.
+- [ ] Save HTML elements using the  querySelector() method.
+- [ ] Use .style to change the CSS display property when the user interacts with the page.
+- [ ] Use .innerHTML to change the text when the user interacts with the page. 
+- [ ] Includes at least two events.
 
 ### Check Accessibility
 Check that the text is readable:
-- Color contrast ratio of 4-4.5:1
-- All images have alt attributes
+- [ ] Color contrast ratio of 4-4.5:1
+- [ ] All images have alt attributes
 
